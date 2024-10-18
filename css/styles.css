@@ -61,6 +61,8 @@
     }
     .contacts-list {
         padding: 0;
+        font-weight: 600;
+        font-size: 14px;
     }
     .contacts {
         display: flex;
@@ -74,6 +76,8 @@
      }
      .nav-item {
         margin-bottom: 14px;
+        font-weight: 600;
+        font-size: 28px;
      }
 
      .footer-privacy {
