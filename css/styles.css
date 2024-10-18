@@ -80,19 +80,23 @@
 
      .footer-privacy {
         max-width: 335px;
-        display: flex;
+        display: flex; 
      }
      .privacy-policy {
         width: 171px;
         font-weight: 500;
         font-size: 12px;
         margin-right: 49px;
+        letter-spacing: -0.01em;
+        color: rgba(251, 251, 251, 0.5);
     }
     .brand-logo {
         width: 115px;
         font-weight: 500;
         font-size: 12px;
         margin: 0;
+        letter-spacing: -0.01em;
+        color: rgba(251, 251, 251, 0.5);
     }
 
     @media screen and (min-width: 768px) {
